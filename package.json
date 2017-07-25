@@ -1,0 +1,22 @@
+{
+  "name": "color_game",
+  "version": "1.0.0",
+  "description": "Game to match colors with RGB values",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Villian79/Color-Game.git"
+  },
+  "author": "Igor Vilinchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Villian79/Color-Game/issues"
+  },
+  "homepage": "https://github.com/Villian79/Color-Game#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
